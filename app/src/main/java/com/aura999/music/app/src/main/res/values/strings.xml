@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aura999</string>
+    <string name="welcome_message">Welcome to Aura999 Real-Time Music Streaming</string>
+</resources>
